@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameCoCaro</string>
+    <array name="kyhieu">
+        <item>x</item>
+        <item>O</item>
+    </array>
+</resources>
